@@ -1,10 +1,9 @@
 %Bouncy ball is a game consisting of three levels which vary in speed where
 %you press space to jump in order to avoid the obstacles untill the max
 %score which is 750
-%project made by 1-Mohamed Mamdouh 4816
-%                2-Omar Abdelrazek 5163
-%                3-Hossam Eldin Ahmed 5171
-%                4-Ahmed Abdel-moula 5102
+%project made by 
+%               Omar Abdelrazek 5163
+
 figure('MenuBar','none','Color','white',...
     'Resize','on','name','Bouncy ball','NumberTitle','off','position',[0,0,600,600],...
     'BackingStore','on','keypressfcn',@keypress)
